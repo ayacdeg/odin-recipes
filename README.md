@@ -1,4 +1,4 @@
 # odin-recipes
-the odin project 
+the odin project
 
-Hi
+my first project :)
